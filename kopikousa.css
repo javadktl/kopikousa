@@ -1,0 +1,130 @@
+*{background-color: black;
+    
+    padding: 0;
+    
+}
+@font-face {
+    font-family:playfair;
+    src: url(font/Playfair.ttf);
+}
+.head h1{
+    color:rgba(255, 255, 255, 0.691);
+    font-size: 50px;
+    font-family: playfair;
+    letter-spacing: 7px;
+    font-weight: lighter;
+}
+.head h1:hover{
+cursor: pointer;
+color: rgba(254, 45, 45, 0.607);
+}
+li:hover{
+    color: rgba(254, 58, 58, 0.741);
+    cursor: pointer;
+}
+.head{text-align: center;
+    line-height: 16px;
+}
+.head p{
+    color: white;
+    letter-spacing: 6px;
+    color: rgba(255, 255, 255, 0.691);
+    font-size: 12px;
+    
+}
+hr{
+    width: 1400px;
+    color: rgba(255, 255, 255, 0.172);
+}
+ul{
+    list-style: none;
+    color: aliceblue;
+    display: flex;
+    
+}
+nav{
+margin-left: 538px;
+
+}
+nav li{
+    padding-inline: 21px;
+    font-size: small;
+
+}
+.candy{
+padding-top: 65px;
+padding-left: 834px;
+
+}
+.candy p{
+color: white;
+font-size: 45px;
+
+}
+.bigcard{
+    width: 100%;
+    height: 308px;
+    display: flex;
+    align-items: center;
+    justify-content:center ;
+    gap: 35px;
+    margin-top: 92px;
+    
+}
+.letter1{
+    margin-top: 0px;
+    text-align:center;
+    
+
+}
+.letter1 p{
+color: rgba(255, 255, 255, 0.996);
+font-size: 25px;
+}
+.letter2{
+    text-align: left;
+
+}
+.letter2 p{
+color: rgba(255, 255, 255, 0.6);
+
+padding-left:20% ;
+font-size: 18px;
+font-family:  --e-global-typography-text-font-family , Sans-serif;
+line-height: 37px;
+}
+.picturecontainer{
+display: flex;
+justify-content: center;
+ margin: auto;
+align-items: center;
+}
+.letter3 p{
+    color: rgba(255, 255, 255, 0.6);
+padding-left:20% ;
+font-size: 18px;
+font-family:  --e-global-typography-text-font-family , Sans-serif;
+line-height: 37px;
+}
+.footerletter{
+ text-align: center;
+ margin-top: 300px;
+ height: 30px;
+  
+}
+
+.footerletter{
+color: rgba(255, 255, 255, 0.913);
+align-items: center;
+font-size: 13px;
+}
+
+
+   
+
+
+ 
+   
+
+   
+
